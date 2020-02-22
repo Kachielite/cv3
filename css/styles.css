@@ -65,7 +65,7 @@ p {
 
 
 .top-container {
-    background-image: url("https://github.com/Kachielite/cv3/tree/master/images/mountain1.png");
+    background-image: url("../images/mountain1.png");
     background-size: cover;
     -webkit-background-size: cover;
     background-repeat: no-repeat;
