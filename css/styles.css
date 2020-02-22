@@ -1,0 +1,239 @@
+body {
+    position: 10px 100px 0px 100px;
+    text-align: center;
+}
+
+h1 {
+font-size: 5.625rem;
+font-weight: bolder;
+color: lightslategrey;
+font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin-top: 30px;
+    color:lightslategrey;
+    font-family: 'Merriweather', sans-serif;
+    }
+h3 {
+    font-family: 'Merriweather', serif;
+    color: white;
+    }
+
+hr {
+    border-top-width: 5px;
+    border-top-color: lightslategray;
+    width: 10%;
+    border-style: dotted none none;
+}
+
+p {
+    color: lightslategray;
+    font-family: 'Merriweather', serif;
+}
+/* Navigation Bar */
+
+/* #container-class {
+    background-image: url("images/mountain1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 60%;
+    border: 2px dashed #333; 
+    
+    }*/
+
+
+#Derrick-img {
+    position: center;
+    height: 150px;
+    width: 150px;
+    float: center;
+    background-color: white;
+    border-radius: 100%;
+    /* margin-right: 100px; */
+}
+
+.nav-link {
+    color:lightseagreen;
+}
+
+.nav-bar {
+    padding: 20px 200px;
+}
+
+
+.top-container {
+    background-image: url("/home/kachi/Documents/web development/Reponsive cv/images/mountain1.png");
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 600px;
+    
+    
+
+}
+
+
+#top-intro {
+    margin-top: 220px;
+    bottom: 120px;
+}
+
+/* First Div */
+
+.row {
+    /* background-color: lightseagreen; */
+    text-align: center;
+}
+ 
+.about-me {
+    color: lightslategrey;
+    font-family: 'Merriweather';
+    padding-bottom: 50px;
+    margin-top: 0;
+}
+
+.top-cloud {
+    padding-top: 150px;
+}
+/* Second Div */
+
+.intro-container{
+    position: center;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+   
+    /* margin-left: 600px;
+    margin-right: 600px; */
+}
+
+/* .about-me {
+    color: black;
+} */
+
+/* Third Div */
+
+/* features */
+
+#features-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 30px;
+    color: white;
+    font-family: 'Merriweather', sans-serif;
+    background-color: lightblue;
+    
+}
+
+#middle-container{
+    background-color: white;
+}
+
+#features {
+    padding: 7% 15%;
+    background-color: lightblue;
+}
+
+#features p {
+    color: lightslategray;
+}
+
+.features-box {
+    text-align: center;
+    padding: 5%;
+    background-color: lightblue;
+}
+
+.hello {
+    font-family: 'Merriweather', serif;
+    color: lightseagreen
+}
+/* icon */
+
+.icon {
+    color:white;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: rgb(55, 57, 59);
+}
+
+
+/* Contact-me */
+
+.contact-me {
+    position: center;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    /* margin-right: 300px;
+    margin-left: 300px; */
+}
+
+#contact-me-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    color: lightslategray;
+    font-family: 'Merriweather', sans-serif;
+}
+
+
+.btn {
+    background-color: skyblue;
+    color: white;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-family: 'Merriweather', serif;
+    }
+    
+.btn:hover {
+    color: #212529;
+    text-decoration: none;
+}
+
+.icon2 {
+    color:white;
+    margin-bottom: 1rem;
+}
+
+#contact-me2 {
+    /* background-color: lightblue; */
+    position: relative;
+    margin: 0px;
+    padding: 30px;
+    
+}
+
+.copyright {
+    margin-bottom: 0px;
+    margin-top: 60px;
+    color: lightslategray;
+}
+
+/* .footer-link {
+    padding: 10px 40px;
+    font-weight: bolder;
+    font-family: 'Merriweather', serif;
+    color: lightslategray;
+} */
+
+.foot-icon {
+    margin: 0px 10px 20px;
+    color: lightslategray;
+}
+
+#footer-sec {
+    padding: 0px 30px 20px 30px;
+     text-align: center;
+    
+ }
