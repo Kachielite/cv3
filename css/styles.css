@@ -1,12 +1,11 @@
 body {
-    position: 10px 100px 0px 100px;
     text-align: center;
 }
 
 h1 {
 font-size: 5.625rem;
 font-weight: bolder;
-color: lightslategrey;
+color: white;
 font-family: 'Sacramento', cursive;
 }
 
