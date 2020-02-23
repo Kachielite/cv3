@@ -1,9 +1,10 @@
-html, body { 
-margin:0;
-padding:0;
-width:100%;
-height:100%;
-overflow: auto;
+body {
+    text-align: centre;
+    overflow-x: hidden;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 h1 {
