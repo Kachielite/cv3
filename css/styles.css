@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-font-size: 4.225rem;
+font-size: 5.625rem;
 font-weight: bold;
 color:lightslategrey;
 font-family: 'Sacramento', cursive;
@@ -94,7 +94,7 @@ p {
 }
  
 .about-me {
-    color: white;
+    color: lightslategrey;
     font-family: 'Merriweather';
     padding-bottom: 50px;
     margin-top: 0;
