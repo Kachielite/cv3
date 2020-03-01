@@ -3,28 +3,29 @@ body {
     overflow-x: hidden;
     width: 100%;
     -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-            box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 h1 {
-font-size: 5.625rem;
-font-weight: bold;
-color:lightslategrey;
-font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    font-weight: bold;
+    color: lightslategrey;
+    font-family: 'Sacramento', cursive;
 }
 
 h2 {
     font-weight: bold;
     font-size: 2.5rem;
     margin-top: 30px;
-    color:lightslategrey;
+    color: lightslategrey;
     font-family: 'Merriweather', sans-serif;
-    }
+}
+
 h3 {
     font-family: 'Merriweather', serif;
     color: white;
-    }
+}
 
 hr {
     border-top-width: 5px;
@@ -37,17 +38,9 @@ p {
     color: lightslategray;
     font-family: 'Merriweather', serif;
 }
+
+
 /* Navigation Bar */
-
-/* #container-class {
-    background-image: url("images/mountain1.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 60%;
-    border: 2px dashed #333; 
-    
-    }*/
-
 
 #Derrick-img {
     position: center;
@@ -60,31 +53,27 @@ p {
 }
 
 .nav-link {
-    color:lightseagreen;
+    color: lightseagreen;
 }
 
 .nav-bar {
     padding: 20px 200px;
 }
 
-
 .top-container {
     background-image: url("../images/mountain1.png");
     background-size: cover;
-/*     -webkit-background-size: cover; */
-/*     background-repeat: no-repeat; */
+    /*     -webkit-background-size: cover; */
+    /*     background-repeat: no-repeat; */
     background-position: center center;
-/*     height: 600px; */
-    
-    
-
+    /*     height: 600px; */
 }
-
 
 #top-intro {
     margin-top: 150px;
     bottom: 120px;
 }
+
 
 /* First Div */
 
@@ -92,7 +81,7 @@ p {
     /* background-color: lightseagreen; */
     text-align: center;
 }
- 
+
 .about-me {
     color: lightslategrey;
     font-family: 'Merriweather';
@@ -103,23 +92,22 @@ p {
 .top-cloud {
     padding-top: 150px;
 }
+
+
 /* Second Div */
 
-.intro-container{
+.intro-container {
     position: center;
     text-align: center;
     margin-bottom: 100px;
     margin-top: 100px;
-   
     /* margin-left: 600px;
     margin-right: 600px; */
 }
 
-/* .about-me {
-    color: black;
-} */
 
 /* Third Div */
+
 
 /* features */
 
@@ -131,10 +119,9 @@ p {
     color: white;
     font-family: 'Merriweather', sans-serif;
     background-color: lightblue;
-    
 }
 
-#middle-container{
+#middle-container {
     background-color: white;
 }
 
@@ -157,10 +144,12 @@ p {
     font-family: 'Merriweather', serif;
     color: lightseagreen
 }
+
+
 /* icon */
 
 .icon {
-    color:white;
+    color: white;
     margin-bottom: 1rem;
 }
 
@@ -190,7 +179,6 @@ p {
     font-family: 'Merriweather', sans-serif;
 }
 
-
 .btn {
     background-color: skyblue;
     color: white;
@@ -199,24 +187,22 @@ p {
     border-radius: 15px;
     font-weight: bolder;
     font-family: 'Merriweather', serif;
-    }
-    
+}
+
 .btn:hover {
     color: #212529;
     text-decoration: none;
 }
 
 .icon2 {
-    color:white;
+    color: white;
     margin-bottom: 1rem;
 }
 
 #contact-me2 {
-    /* background-color: lightblue; */
     position: relative;
     margin: 0px;
     padding: 30px;
-    
 }
 
 .copyright {
@@ -225,13 +211,6 @@ p {
     color: lightslategray;
 }
 
-/* .footer-link {
-    padding: 10px 40px;
-    font-weight: bolder;
-    font-family: 'Merriweather', serif;
-    color: lightslategray;
-} */
-
 .foot-icon {
     margin: 0px 10px 20px;
     color: lightslategray;
@@ -239,6 +218,5 @@ p {
 
 #footer-sec {
     padding: 0px 30px 20px 30px;
-     text-align: center;
-    
- }
+    text-align: center;
+}
